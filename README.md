@@ -1,2 +1,0 @@
-# bigquerynotes
-aid in learnings
